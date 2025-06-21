@@ -11,9 +11,8 @@
     <?php
      include "includes/header.php";
      ?>
-<h1>welcome to student registration system</h1>
-    <!-- Bootstrap JS (optional, for navbar toggling) -->
      
+    <!-- Bootstrap JS (optional, for navbar toggling) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
